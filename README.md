@@ -84,7 +84,7 @@ A small computational project demonstrating the visualization of scientific prof
 
 - **GitHub:** [manosmita-giri](https://github.com/manosmita-giri)
 - **Research project:** [Scientific Plotting and Data Analysis Using Python](https://github.com/manosmita-giri/scientific-python-visualization)
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** [linkedin.com/in/manosmita-giri-55503b388]
 - **ORCID:** [Add your ORCID profile URL, if available]
 
 ---
