@@ -90,7 +90,19 @@ A small computational project demonstrating the visualization of scientific prof
 ---
 
 *Interested in computational solar physics, radiative MHD, and forward modelling of solar atmospheric diagnostics.*
+## Research Projects
 
+### Master's Thesis — Hα Line-Wing Diagnostics
+
+Ongoing master's thesis research at the Indian Institute of Astrophysics (IIA), focused on forward modelling of Hα line-wing diagnostics from radiative MHD simulation data.
+
+[View thesis project overview](https://github.com/manosmita-giri/solar-mhd-forward-modelling)
+
+### Scientific Python Visualisation
+
+Python-based scientific plotting project using NumPy and Matplotlib to visualise temperature, density, and vertical-velocity profiles.
+
+[View Python project](https://github.com/manosmita-giri/scientific-python-visualization)
 <!--
 **manosmita-giri/manosmita-giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
